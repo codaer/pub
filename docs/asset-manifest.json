@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0930b812.chunk.css",
+    "main.js": "/static/js/main.4d503ed0.chunk.js",
+    "main.js.map": "/static/js/main.4d503ed0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26934d73.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26934d73.js.map",
+    "static/js/2.98d7a322.chunk.js": "/static/js/2.98d7a322.chunk.js",
+    "static/js/2.98d7a322.chunk.js.map": "/static/js/2.98d7a322.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.127e571ea1248b53a9e7051208286b5e.js": "/precache-manifest.127e571ea1248b53a9e7051208286b5e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0930b812.chunk.css.map": "/static/css/main.0930b812.chunk.css.map",
+    "static/js/2.98d7a322.chunk.js.LICENSE.txt": "/static/js/2.98d7a322.chunk.js.LICENSE.txt",
+    "static/media/About.svg": "/static/media/About.edd90b45.svg",
+    "static/media/Contact.svg": "/static/media/Contact.5d5075bd.svg",
+    "static/media/DecisionMaker.svg": "/static/media/DecisionMaker.0e522610.svg",
+    "static/media/Github-octicon.svg": "/static/media/Github-octicon.6582a7d9.svg",
+    "static/media/Profiles.svg": "/static/media/Profiles.49ce7cac.svg",
+    "static/media/logo.svg": "/static/media/logo.0ad3fb1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26934d73.js",
+    "static/js/2.98d7a322.chunk.js",
+    "static/css/main.0930b812.chunk.css",
+    "static/js/main.4d503ed0.chunk.js"
+  ]
+}

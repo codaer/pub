@@ -1,0 +1,13 @@
+{
+  "name": "www-deploy",
+  "version": "1.0.0",
+  "description": "Public site assets for Codaer",
+  "main": "n/a",
+  "repository": "https://www.github.com/codaer/pub",
+  "author": "Alexander Eby <github@codaer.com>",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "deploy": "./deploy.sh"
+  }
+}

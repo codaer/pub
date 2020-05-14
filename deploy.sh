@@ -11,7 +11,6 @@ set -e
     # Copy site
     rm -rf ./docs/
     cp -r ../www/build/ ./docs/
-    cp ./docs/index.html ./docs/404.html
     git checkout ./docs/CNAME
 )
 

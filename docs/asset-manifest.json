@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.c68fd112.chunk.css",
-    "main.js": "/static/js/main.0675cdf4.chunk.js",
-    "main.js.map": "/static/js/main.0675cdf4.chunk.js.map",
+    "main.css": "/static/css/main.a6591e10.chunk.css",
+    "main.js": "/static/js/main.ab32e420.chunk.js",
+    "main.js.map": "/static/js/main.ab32e420.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.26934d73.js",
     "runtime-main.js.map": "/static/js/runtime-main.26934d73.js.map",
-    "static/js/2.b2daa08f.chunk.js": "/static/js/2.b2daa08f.chunk.js",
-    "static/js/2.b2daa08f.chunk.js.map": "/static/js/2.b2daa08f.chunk.js.map",
+    "static/js/2.9ce3cc46.chunk.js": "/static/js/2.9ce3cc46.chunk.js",
+    "static/js/2.9ce3cc46.chunk.js.map": "/static/js/2.9ce3cc46.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.746f8d6f2406e2c7ff15b627417f47df.js": "/precache-manifest.746f8d6f2406e2c7ff15b627417f47df.js",
+    "precache-manifest.893b31b898fafb14bd3c954a44015a6b.js": "/precache-manifest.893b31b898fafb14bd3c954a44015a6b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c68fd112.chunk.css.map": "/static/css/main.c68fd112.chunk.css.map",
-    "static/js/2.b2daa08f.chunk.js.LICENSE.txt": "/static/js/2.b2daa08f.chunk.js.LICENSE.txt",
+    "static/css/main.a6591e10.chunk.css.map": "/static/css/main.a6591e10.chunk.css.map",
+    "static/js/2.9ce3cc46.chunk.js.LICENSE.txt": "/static/js/2.9ce3cc46.chunk.js.LICENSE.txt",
     "static/media/Abeelxy.svg": "/static/media/Abeelxy.56ac764f.svg",
     "static/media/About.svg": "/static/media/About.edd90b45.svg",
     "static/media/ColorChooser.svg": "/static/media/ColorChooser.adc334d5.svg",
     "static/media/Contact.svg": "/static/media/Contact.5d5075bd.svg",
     "static/media/DecisionMaker.svg": "/static/media/DecisionMaker.0e522610.svg",
     "static/media/Github-octicon.svg": "/static/media/Github-octicon.6582a7d9.svg",
-    "static/media/Number.svg": "/static/media/Number.bd70bc68.svg",
+    "static/media/NumberChooser.svg": "/static/media/NumberChooser.bd70bc68.svg",
     "static/media/Profiles.svg": "/static/media/Profiles.49ce7cac.svg",
     "static/media/Settings.svg": "/static/media/Settings.e7398209.svg",
     "static/media/logo.svg": "/static/media/logo.0ad3fb1d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.26934d73.js",
-    "static/js/2.b2daa08f.chunk.js",
-    "static/css/main.c68fd112.chunk.css",
-    "static/js/main.0675cdf4.chunk.js"
+    "static/js/2.9ce3cc46.chunk.js",
+    "static/css/main.a6591e10.chunk.css",
+    "static/js/main.ab32e420.chunk.js"
   ]
 }
